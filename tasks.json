@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Title",
+        "description": "Desc",
+        "category": "Category 1",
+        "due_date": "2024-04-06",
+        "priority": "средний",
+        "status": "выполнена"
+    },
+    {
+        "id": 2,
+        "title": "Title2",
+        "description": "Desc2",
+        "category": "Category 2",
+        "due_date": "2034-07-23",
+        "priority": "высокий",
+        "status": "выполнена"
+    },
+    {
+        "id": 3,
+        "title": "Title3",
+        "description": "Desc3",
+        "category": "Category 2",
+        "due_date": "2365-11-30",
+        "priority": "высокий",
+        "status": "не выполнена"
+    }
+]
