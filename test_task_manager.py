@@ -1,5 +1,3 @@
-#python -m unittest test_task_manager.py
-
 import unittest
 from unittest.mock import patch, MagicMock
 from task import TaskManager, Task, TaskStatus
